@@ -30,7 +30,7 @@ Pre requirements are
 
 1. First clone the repo
 ```sh
-git clone git@github.com:rohid-hub/Instagram_Clone.git
+git clone https://github.com/DimonSleep/Insta-Clona.git
 ```
 3. Create Virtualenv
 ```sh
