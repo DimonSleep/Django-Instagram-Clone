@@ -69,11 +69,10 @@ python manage.py runserver
 ```
 It will open a server at port 8000. Go to your browser and go to 
 [localhost:8000](localhost:8000/)
-<img src="./screen_shots/login.png">
-You should see this page.
 
-7. Log in with the super user
-  to log in give that username and password that you gave for creating superuser then click login. You should log in at this time. If not then try to go to the home page useing just localhost:8000/
+
+
+7.  If not then try to go to the home page useing just localhost:8000/
 
 
 
