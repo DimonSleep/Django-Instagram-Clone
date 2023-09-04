@@ -75,15 +75,6 @@ You should see this page.
 7. Log in with the super user
   to log in give that username and password that you gave for creating superuser then click login. You should log in at this time. If not then try to go to the home page useing just localhost:8000/
 
-<img src="./screen_shots/timeline.png">
-  You should see this page bt in your their should not be any images!
-  <br>
-  <br>
-  Thats it now you can upload images and create new user and see eachothers posts in the timeline.
 
-<!-- CONTACT -->
-## Contact
 
-Rohidul Islam - [email](rohidul677@gmail.com)
 
-Github Link: [rohid-hub](https://github.com/rohid-hub)
