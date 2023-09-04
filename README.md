@@ -1,36 +1,4 @@
-<p align="center">
 
-  <h1 align="center">Instagram Clone</h1>
-
-  <p align="center">
-    Instagram clone project with django
-    <br />
-    <br />
-    <a href="https://instagramcloneri.herokuapp.com/">Visit Site</a>
-    ·
-    <a href="https://github.com/rohid-hub/Instagram_Clone/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/rohid-hub/Instagram_Clone/issues">Request Feature</a>
-  </p>
-</p>
-
-
-<!-- TABLE OF CONTENTS -->
-## Table of Contents
-
-* [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Pre Requirments](#pre-requirements)
-  * [Installation](#installation)
-* [Contact](#contact)
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-<p align="center"><img src="./screen_shots/timeline.png" ><p>
 
 This is a instagram clone made with django a python backend framework. Django is on of the best framework for backend.
 
